@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/peculiarblog",
+    "prod_uri": "mysql://root:@localhost/peculiarblog",
+    "tw_url": "https://twitter.com/peculiarsblog",
+    "fb_url": "https://facebook.com/peculiarsblog",
+    "gh_url":"https://github.com/peculiarsblog",
+    "blog_name": "Peculiar Blog",
+    "sub_head": "A Blog By Peculiars",
+    "gmail-user": "your email@gmail.com",
+    "gmail-password": "password",
+    "about_text": "Hi,I am Pragya from India. This blog gives you a peculiar approach towards life,studies,world,India,behaviour and many more.Hope you like and appreciate and share a blog content. ",
+    "no_of_posts": 2,
+    "login_img":"login.svg",
+    "admin_user":"pragya" ,
+    "admin_password": "pragya",
+    "upload_location": "C:\\Users\\Pragya ......\\PycharmProjects\\Flask-tut\\static"
+  }
+}
